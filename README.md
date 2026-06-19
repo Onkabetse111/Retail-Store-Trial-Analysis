@@ -200,7 +200,7 @@ This project highlights practical experience in:
 
 Clone the repository:
 
-git clone https://github.com/your-username/quantium-store-trial-analysis.git
+git clone https://github.com/Onkabetse111/Retail-Store-Trial-Analysis
 
 Install dependencies:
 
