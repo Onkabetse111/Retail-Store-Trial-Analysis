@@ -101,8 +101,30 @@ Ensured candidate stores operated at comparable sales volumes.
 
 Sales trends were plotted to confirm that trial and control stores behaved similarly before the trial period.
 
-This combination produced a more reliable control selection than relying on correlation alone.
+## Trial Performance
 
+### Store 77
+
+![Trial Store 77](images/trial_store77.png)
+
+Store 77 consistently outperformed the control store during the trial period, indicating a positive sales uplift.
+
+
+
+### Store 88
+
+![Trial Store 88](images/trial_store88.png)
+
+
+
+### Store 86
+
+![Trial Store 86](images/trial_store86.png)
+
+Store 77 consistently outperformed the control store during the trial period, indicating a positive sales uplift.
+
+
+Store 77 consistently outperformed the control store during the trial period, indicating a positive sales uplift.
 
 ## 📈 Selected Control Stores
 
