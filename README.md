@@ -105,7 +105,7 @@ Sales trends were plotted to confirm that trial and control stores behaved simil
 
 ### Store 77
 
-![Trial Store 77](images/trial_store77.png)
+![Trial Store 77](images/Trial_store 77.png)
 
 Store 77 consistently outperformed the control store during the trial period, indicating a positive sales uplift.
 
@@ -113,13 +113,13 @@ Store 77 consistently outperformed the control store during the trial period, in
 
 ### Store 88
 
-![Trial Store 88](images/trial_store88.png)
+![Trial Store 88](images/Trial_store 88.png)
 
 
 
 ### Store 86
 
-![Trial Store 86](images/trial_store86.png)
+![Trial Store 86](images/Trial_store 86.png)
 
 Store 77 consistently outperformed the control store during the trial period, indicating a positive sales uplift.
 
